@@ -8,3 +8,5 @@
 ``` javascript
 var myVar = "Hello, github!";
 ```
+- [x] 🍝
+- [ ] ⚔️ 
